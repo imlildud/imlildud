@@ -13,7 +13,7 @@ Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un ni
 - 🎮 Actualmente intentando crear un juego en Godot _"lleva 4 años"_ (sí, también hago que los bugs sean jugables :p).
 - ☕ Programo en Java. “ Porque si la vida ya es difícil, ¿por qué no complicarla más?
 
-## 🚀 Actividades favoritoas
+## 🚀 Actividades favoritas
 <img src="https://i.pinimg.com/236x/aa/c1/3f/aac13ff50a76ad92286818a3d9da37eb.jpg" alt="gato" width="250"/>
 - **Mi juego en Godot**: Está en desarrollo. ¿Funciona? Eh… define en una tesis “funcionar” y te dire...
 - Mate mi laptop 2 veces instalando ArchLinux... se logro pero no le jala el wifi :C
