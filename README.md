@@ -1,5 +1,5 @@
 # 👋 ¡Hola, mundo! Soy lildud 🦧
-<img src="https://stickerly.pstatic.net/sticker_pack/M6DUfwweCC1PPhJ9HOcpw/DAS3U4/19/-869922692.png" alt="gato" width="250"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2sPgddmJvyim1al_aTtlIMFFJFneNaHQ8FeUzZrEEksi5mVRU-oDfjaYzblv84COk_VU&usqp=CAU" alt="gato" width="250"/>
 
 Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un nido de bugs
 ¿Esperabas una carta de presentacion formal? que lastima andaba aburrido mientras escribia esto :p
@@ -15,7 +15,7 @@ Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un ni
 
 ## 🚀 Actividades favoritas
 <img src="https://i.pinimg.com/236x/aa/c1/3f/aac13ff50a76ad92286818a3d9da37eb.jpg" alt="gato" width="250"/>
-- **Mi juego en Godot**: Está en desarrollo. ¿Funciona? Eh… define en una tesis “funcionar” y te dire...
+- Mi juego en godot: Está en desarrollo. ¿Funciona? Eh… define en una tesis “funcionar” y te dire...
 - Mate mi laptop 2 veces instalando ArchLinux... se logro pero no le jala el wifi :C
 - Disque dibujo.
 - Si ves criaturas raras merodeando por ahi… probablemente los dibujé yo.
