@@ -1,5 +1,5 @@
-# 👋 ¡Hola, mundo! Soy lildud 🦧
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2sPgddmJvyim1al_aTtlIMFFJFneNaHQ8FeUzZrEEksi5mVRU-oDfjaYzblv84COk_VU&usqp=CAU" alt="gato" width="250"/>
+# 👋 ¡Hola, mundo! Soy lildud 🦧 ![Status](https://img.shields.io/badge/Estado-Eutanasia-brightred?style=flat-square)
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
 
 Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un nido de bugs
 ¿Esperabas una carta de presentacion formal? que lastima andaba aburrido mientras escribia esto :p
@@ -19,6 +19,12 @@ Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un ni
 - ☕ Programo en Java. “ Porque si la vida ya es difícil, ¿por qué no complicarla más?
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imlildud&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,godot&theme=dark" />
+</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=imlildud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
 
 ## ✨ Proyectos destacados
 <a href="https://github.com/imlildud/Pokedex-Html">
@@ -27,12 +33,14 @@ Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un ni
 
 ## 🔥 LA RACHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 [![GitHub Streak](https://streak-stats.demolab.com?user=imlildud&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imlildud&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Contribution Grid](https://github-readme-activity-graph.vercel.app/graph?username=imlildud&theme=tokyogiht-duo&hide_border=true)
 
-## 🚀 Actividades favoritas
-<img src="https://i.pinimg.com/236x/aa/c1/3f/aac13ff50a76ad92286818a3d9da37eb.jpg" alt="gato" width="250"/>
-- Mi juego en godot: Está en desarrollo. ¿Funciona? Eh… define en una tesis “funcionar” y te dire...
-- Mate mi laptop 2 veces instalando ArchLinux... se logro pero no le jala el wifi :C
-- Disque dibujo.
-- Si ves criaturas raras merodeando por ahi… probablemente los dibujé yo.
+
+## ¿Cansado de tanta cosa innecesaria? Pues aqui van mas!
+![](https://komarev.com/ghpvc/?username=imlildud&style=flat&color=blueviolet)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7DF7D4&width=435&lines=Hola+lector+disfruta+de+lo+innecesario+que+es+este+readme;¿Programador?+Naaaa+soy+mas+de+hacer+todo+en+main;Godot+me+odia+pero+yo+lo+adoro" />
+</p>
 
 ---
