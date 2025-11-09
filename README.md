@@ -40,7 +40,7 @@ Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un ni
 ## ¿Cansado de tanta cosa innecesaria? Pues aqui van mas!
 ![](https://komarev.com/ghpvc/?username=imlildud&style=flat&color=blueviolet)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=7DF7D4&width=435&lines=Hola+lector+disfruta+de+lo+innecesario+que+es+este+readme;¿Programador?+Naaaa+soy+mas+de+hacer+todo+en+main;Godot+me+odia+pero+yo+lo+adoro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DF7D4&center=true&vCenter=true&width=600&lines=Hola+lector+disfruta+lo+innecesario+de+este+README;git+branch+-d+main;Godot+me+odia+pero+yo+lo+adoro" />
 </p>
 
 ---
