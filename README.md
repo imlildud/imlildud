@@ -14,7 +14,7 @@ Bienvenidos a mi cueva... aquí encontrarás código, caos y probablemente un ni
 - ☕ Programo en Java. “ Porque si la vida ya es difícil, ¿por qué no complicarla más?
 
 ## 🔥 LA RACHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-<img src="https://d3frb2mbny706b.cloudfront.net/<imlildud>" width="600">
+[![GitHub Streak](https://streak-stats.demolab.com?user=imlildud&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 ## 🚀 Actividades favoritas
 <img src="https://i.pinimg.com/236x/aa/c1/3f/aac13ff50a76ad92286818a3d9da37eb.jpg" alt="gato" width="250"/>
