@@ -29,19 +29,19 @@
 ### 💻 Lenguajes
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,js,ts,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,vue,rust,js,ts,php,html,css&theme=dark" />
 </p>
 
 ### 🧩 Frameworks & Librerías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,flutter,astro&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vite,react,flutter,tauri&theme=dark" />
 </p>
 
 ### 🛠️ Herramientas & Plataformas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vim,vscodium,firebase,godot&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vim,mysql,supabase,firebase,godot&theme=dark" />
 </p>
 
 ### 🐧 Entorno
